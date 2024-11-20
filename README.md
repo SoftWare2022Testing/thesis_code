@@ -3,28 +3,36 @@ The code for thesis "INVESTIGATING SECURITY CHALLENGES IN WEB3 ARCHITECTURE"
 
 
 ## CydiOS:
-Code repository:
+1. Code repository:
+```
 https://github.com/SoftWare2022Testing/CydiOS
+```
 
-Demo video:
+2. Demo video:
 https://www.youtube.com/shorts/VeZpY92Fno4
 
 
 ## Crypto Wallet
 
-Code repository:
+1. Code repository:
+```
 https://github.com/SoftWare2022Testing/dapp-testnet
+```
 
-The Website for user trials and data disclosure:
+2. The Website for user trials and data disclosure:
 https://dapp-testnet-kappa.vercel.app/
 
 ## Smart contract fuzzing 
-Code repository (The dockers for fuzzers are included):
+1. Code repository (The dockers for fuzzers are included):
+```
 https://github.com/SE2023Test/SCFuzzers
+```
 
 ## Finding the bottleneck:
-Code repository: 
+1. Code repository:
+```
 https://github.com/SoftWare2022Testing/ThreadNeck
+```
 
-Demo video:
+2. Demo video:
 https://www.youtube.com/watch?v=bNNDbhawAag
